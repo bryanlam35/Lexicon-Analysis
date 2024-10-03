@@ -1,0 +1,6 @@
+while  (fahr <= upper)   a = 23.00;
+
+for (int i = 0; i < n; i++)
+{
+    sum += array[i];
+}
